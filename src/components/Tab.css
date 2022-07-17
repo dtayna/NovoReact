@@ -1,0 +1,14 @@
+.botoes {
+    margin: 20px;
+    width: 50px;
+}
+
+.corpos{
+    padding-left: 10px;
+  width: 92%;
+  height: 200px;
+  margin-left: 3%;
+  margin-top: 5%;
+  border-top: 5px solid green;
+  background-color: #98FB98;
+}
